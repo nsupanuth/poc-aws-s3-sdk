@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.ap-southeast-1.amazonaws.com/
+  accessKey: <your-key>
+  secretKey: <your-secret>
+  bucketName: poc-java-sdk-sunline
